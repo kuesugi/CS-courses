@@ -1,5 +1,5 @@
 ## My cs courses in Pitt
-###### Contents
+ Contents
 
 ###### cs007 Intro to Java
        Project7, Recursion
