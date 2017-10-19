@@ -1,3 +1,10 @@
-## pitt_cs
-###### cs courses in University of Pittsburgh
-       cs007, 401, 445, 447
+# cs courses in University of Pittsburgh
+## Contents
+###### cs007
+       Intro to Java
+###### cs401
+       Intermediate Programming with Java
+###### cs445
+       Data Structures
+###### cs447
+       Computer Organization and Assembly Language
