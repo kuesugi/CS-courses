@@ -1,6 +1,3 @@
 # cs0401
-@UPitt Professor Hoffman
-
-<b>Lab10</b> : <b>Jumbles Problem </b> using treeset and treemap.
-   Faster than using <b>bSearch</b>  for locating index to insert words
- 
+@Pitt Professor Hoffman
+@zy
