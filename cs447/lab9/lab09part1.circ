@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project source="2.7.1" version="1.0">
+This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
+<lib desc="#Wiring" name="0"/>
+  <lib desc="#Gates" name="1"/>
+  <lib desc="#Plexers" name="2"/>
+  <lib desc="#Arithmetic" name="3"/>
+  <lib desc="#Memory" name="4"/>
+  <lib desc="#I/O" name="5"/>
+  <lib desc="#Base" name="6">
+    <tool name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+  </lib>
+  <main name="main"/>
+  <options>
+    <a name="gateUndefined" val="ignore"/>
+    <a name="simlimit" val="1000"/>
+    <a name="simrand" val="0"/>
+  </options>
+  <mappings>
+    <tool lib="6" map="Button2" name="Menu Tool"/>
+    <tool lib="6" map="Ctrl Button1" name="Menu Tool"/>
+    <tool lib="6" map="Button3" name="Menu Tool"/>
+  </mappings>
+  <toolbar>
+    <tool lib="6" name="Poke Tool"/>
+    <tool lib="6" name="Edit Tool"/>
+    <tool lib="6" name="Text Tool">
+      <a name="text" val=""/>
+      <a name="font" val="SansSerif plain 12"/>
+      <a name="halign" val="center"/>
+      <a name="valign" val="base"/>
+    </tool>
+    <sep/>
+    <tool lib="0" name="Pin">
+      <a name="tristate" val="false"/>
+    </tool>
+    <tool lib="0" name="Pin">
+      <a name="facing" val="west"/>
+      <a name="output" val="true"/>
+      <a name="labelloc" val="east"/>
+    </tool>
+    <tool lib="1" name="NOT Gate"/>
+    <tool lib="1" name="AND Gate"/>
+    <tool lib="1" name="OR Gate"/>
+  </toolbar>
+  <circuit name="main">
+    <a name="circuit" val="main"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(160,80)" to="(160,120)"/>
+    <wire from="(120,80)" to="(160,80)"/>
+    <wire from="(120,30)" to="(120,80)"/>
+    <wire from="(290,80)" to="(330,80)"/>
+    <wire from="(180,180)" to="(180,200)"/>
+    <wire from="(200,80)" to="(240,80)"/>
+    <wire from="(370,80)" to="(410,80)"/>
+    <wire from="(330,80)" to="(330,120)"/>
+    <wire from="(170,120)" to="(170,140)"/>
+    <wire from="(160,120)" to="(170,120)"/>
+    <wire from="(200,80)" to="(200,120)"/>
+    <wire from="(410,30)" to="(410,80)"/>
+    <wire from="(250,200)" to="(250,220)"/>
+    <wire from="(270,200)" to="(270,220)"/>
+    <wire from="(190,120)" to="(200,120)"/>
+    <wire from="(290,30)" to="(290,80)"/>
+    <wire from="(270,200)" to="(350,200)"/>
+    <wire from="(370,80)" to="(370,120)"/>
+    <wire from="(260,260)" to="(260,300)"/>
+    <wire from="(180,200)" to="(250,200)"/>
+    <wire from="(330,120)" to="(340,120)"/>
+    <wire from="(190,120)" to="(190,140)"/>
+    <wire from="(360,120)" to="(370,120)"/>
+    <wire from="(240,30)" to="(240,80)"/>
+    <wire from="(340,120)" to="(340,140)"/>
+    <wire from="(360,120)" to="(360,140)"/>
+    <wire from="(350,180)" to="(350,200)"/>
+    <comp lib="0" loc="(290,30)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="label" val="A0"/>
+    </comp>
+    <comp lib="0" loc="(260,300)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Y"/>
+      <a name="labelloc" val="east"/>
+    </comp>
+    <comp lib="0" loc="(410,30)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="label" val="B0"/>
+    </comp>
+    <comp lib="1" loc="(350,180)" name="XOR Gate">
+      <a name="facing" val="south"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="0" loc="(240,30)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="label" val="B1"/>
+    </comp>
+    <comp lib="1" loc="(180,180)" name="XOR Gate">
+      <a name="facing" val="south"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="1" loc="(260,260)" name="XOR Gate">
+      <a name="facing" val="south"/>
+      <a name="size" val="30"/>
+      <a name="inputs" val="2"/>
+    </comp>
+    <comp lib="0" loc="(120,30)" name="Pin">
+      <a name="facing" val="south"/>
+      <a name="label" val="A1"/>
+    </comp>
+  </circuit>
+</project>
