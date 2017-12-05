@@ -7,4 +7,4 @@
 ###### CS445 Data Structures
        Assignment2, Assignment4
 ###### CS447 Computer Organization and Assembly Language
-       Lab2, Lab3, Lab4, Lab7, Lab8
+       Lab2, Lab3, Lab7, Lab8, Lab9
