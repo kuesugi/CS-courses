@@ -5,6 +5,6 @@
 ###### CS401 Intermediate Programming with Java
        Project8, Lab10, SimpleCalc
 ###### CS445 Data Structures
-       Assignment2
+       Assignment2, Assignment4
 ###### CS447 Computer Organization and Assembly Language
-       Lab2, Lab3
+       Lab2, Lab3, Lab4, Lab7, Lab8
