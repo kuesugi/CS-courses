@@ -1,4 +1,2 @@
-# cs0401
-@Pitt Professor Hoffman
+# cs401
 
-@zy
