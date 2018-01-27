@@ -1,3 +1,3 @@
-## CS 449
+## CS 449 Introduction to Systems Software
 
-##### lab1: Basic intro
+#### lab1: Basic intro
