@@ -1,4 +1,4 @@
-// Zhaoyi Ma zhm16
+// zhm16
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
