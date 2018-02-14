@@ -1,4 +1,4 @@
-## My CS courses in Pitt👨‍💻
+## 👨‍💻 My CS courses in Pitt
 
 ##### CS007 Intro to Java
        Project7, Recursion
