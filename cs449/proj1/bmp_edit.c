@@ -1,4 +1,4 @@
-// Zhaoyi Ma zhm16
+// zhm
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
