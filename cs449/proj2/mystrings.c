@@ -1,11 +1,9 @@
-// Zhaoyi Ma zhm16
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
 
 // final version 
-// 34 lines (not counting brackets and blank lines)
 
 // to check if a character is a printable ASCII character
 // char range between [32, 126] = printable
