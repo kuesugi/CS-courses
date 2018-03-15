@@ -9,7 +9,7 @@
 ##### CS447 Computer Organization and Assembly Language 🏁
        Lab2, Lab3, Lab7, Lab8, Lab9
 ##### CS449 Introduction to Systems Software 🏍
-       Lab1, Lab2, Lab3, Proj1 (rps.c, bmp_edit.c)
+       Lab1, Lab2, Lab3, Proj1 (rps.c, bmp_edit.c), Proj2 (mystrings, pwd-cracking)
 ##### CS1501 Algorithm Implementation 🏍
 
 
