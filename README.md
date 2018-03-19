@@ -4,6 +4,8 @@
        Project7, Recursion
 ##### CS401 Intermediate Programming with Java 🏁
        Project8, Lab10, SimpleCalc
+##### CS441 Discrete Mathematics 🏁
+       HW 4, 5, 6, 7 Exercise
 ##### CS445 Data Structures 🏁
        Assignment2, Assignment4
 ##### CS447 Computer Organization and Assembly Language 🏁
