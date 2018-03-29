@@ -5,3 +5,4 @@
 #### lab3: malloc and free
 #### proj1: rps and bmp_edit
 #### proj2: mystrings and password-cracking
+#### lab6: Compression
