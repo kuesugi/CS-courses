@@ -1,7 +1,7 @@
 # 👨‍💻 My CS courses in Pitt
 
 ##### CS007 Intro to Java 🏁
-       Project7, Recursion
+   [Project7](https://github.com/kuesugi/pitt_cs/blob/master/cs007/Project7.java), Recursion
 ##### CS401 Intermediate Programming with Java 🏁
        Project8, Lab10, SimpleCalc
 ##### CS441 Discrete Mathematics 🏁
