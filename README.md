@@ -27,7 +27,7 @@
 ### CS1520 Programming Language For Web Applications 🏍️
 ### CS1550 Introduction to Operating Systems 🏍️
 ### CS1632 Quality Assurance 🏍️
-
+<br>
 
 ## Disclaimer 💬
 Please do not copy any code in this repo.
