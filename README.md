@@ -16,6 +16,12 @@
 #### CS1502 Formal Methods in Computer Science 🏁
 #### CS1530 Software Engineering 🏁
    [A Texas hold 'em game based on Java Swing](https://github.com/kuesugi/Texas-holdem/)
+   ##### Login
+   <img src="/examples/Login.png" alt="Login" height="240" width="370"/>
+   
+   ##### In-game
+   <img src="/examples/in-game.png" alt="In-game" height="300" width="495"/>
+   
 #### CS0134 Web Site Design & Development 🏍️
    [Execise 2](https://github.com/kuesugi/pitt_cs/tree/master/cs0134/e2)
 #### CS1520 Programming Language For Web Applications 🏍️
