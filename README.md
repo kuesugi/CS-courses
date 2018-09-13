@@ -23,7 +23,7 @@
    <img src="/examples/in-game.png" alt="In-game" height="300" width="495"/>
    
 ### CS0134 Web Site Design & Development 🏍️
-   [Execise 2](/cs0134/e2)
+   [Execise 2](/cs134/e2)
 ### CS1520 Programming Language For Web Applications 🏍️
 ### CS1550 Introduction to Operating Systems 🏍️
 ### CS1632 Quality Assurance 🏍️
