@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+#travel-agency {
+    font-size: 3rem;
+    font-style: italic;
+    color: rgb(101, 203, 250);
+    text-shadow: 2px 3px black;
+}
+
+#away::first-letter {
+    font-size: 1.4em;
+}
+
+#dest-list {
+    line-height: 1.8;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+a:focus{
+    text-decoration: none;
+}
+
+#mark {
+    text-align: center;
+}
