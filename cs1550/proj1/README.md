@@ -22,6 +22,8 @@
 - Use `W/S/A/D` to control the snake
 - Use `Q` to quit the game at anytime
 - Do **not** use arrow keys
+- Example
+<img src="snake.gif" alt="snake game" height="350" width="520"/>
 
 ##### Note:
 
@@ -35,5 +37,3 @@
   ```
 
   to test `snake`, **or ignore the warning if you can enter the program**
-  
-  <img src="snake.gif" alt="snake game" height="450" width="720"/>
