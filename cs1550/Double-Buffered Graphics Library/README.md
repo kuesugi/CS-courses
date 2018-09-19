@@ -5,9 +5,10 @@
 - To test `hilbert.c`, use `make test`
 
 ##### Usage and note:
+- Demo:
+<img src="hilbert.gif" alt="hilbert" height="350" width="520"/>
 
 - To make `hilbert` work, try to use `⌘/shift/ctrl` with `+/=` as `+`, or simply `+/=` button
-
 ---
 
 ### Snake.c ([description](p1.pdf)):
@@ -18,7 +19,7 @@
 
 ##### Usage:
 
-- Example
+- Demo:
 <img src="snake.gif" alt="snake game" height="350" width="520"/>
 
 - Press `B` to start the game
