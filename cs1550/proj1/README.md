@@ -35,3 +35,5 @@
   ```
 
   to test `snake`, **or ignore the warning if you can enter the program**
+  
+  <img src="/snake.gif" alt="snake game" height="450" width="720"/>
