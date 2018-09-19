@@ -26,7 +26,7 @@
    [Execise 2](/cs134/exercise2)
 ### CS1520 Programming Language For Web Applications 🏍️
 ### CS1550 Introduction to Operating Systems 🏍️
-   Project1
+   [Project1](/cs1550/proj1)
 ### CS1632 Quality Assurance 🏍️
 <br>
 
