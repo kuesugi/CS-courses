@@ -30,11 +30,8 @@
 
 - Please do **not** make the snake twisted or go along its body line
 
-- If there's `modification time in the future` or `Clock time skewe detected ` warning, you can type
-
-- ```
+- If there's `modification time in the future` or `Clock time skewe detected ` warning, you can type the following or **ignore the warning if you can enter the program**:
+  ```
   gcc --std=gnu99 -c -o library library.c
   gcc --std=gnu99 -o snake snake.c library -lm
   ```
-
-  to test `snake`, **or ignore the warning if you can enter the program**
