@@ -26,7 +26,7 @@
    [Execise 2](/cs134/exercise2)
 ### CS1520 Programming Language For Web Applications 🏍️
 ### CS1550 Introduction to Operating Systems 🏍️
-   [Double-Buffered Graphics Library](/cs1550/Double-Buffered Graphics Library)
+   [Double-Buffered Graphics Library](/cs1550/Double-Buffered%20Graphics%20Library)
 ### CS1632 Quality Assurance 🏍️
 <br>
 
