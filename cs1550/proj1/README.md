@@ -28,7 +28,7 @@
 
 ##### Note:
 
-- Please do **not** make the snake twisted or go along its body line
+- Making the snake twisted can lose some pixels
 
 - If there's `modification time in the future` or `Clock time skewe detected ` warning, you can type the following or **ignore the warning if you can enter the program**:
   ```
