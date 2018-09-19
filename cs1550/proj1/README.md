@@ -27,7 +27,7 @@
 
 - Please do **not** make the snake twisted or go along its body line
 
-- If there's `modification time in the future` or `Clock time skewe detected ` warnings, you can type
+- If there's `modification time in the future` or `Clock time skewe detected ` warning, you can type
 
 - ```
   gcc --std=gnu99 -c -o library library.c
