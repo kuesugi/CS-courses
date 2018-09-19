@@ -10,7 +10,7 @@
 
 ---
 
-### Snake.c:
+### Snake.c ([description](p1.pdf)):
 
 ##### Running:
 
