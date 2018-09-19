@@ -1,9 +1,3 @@
-# ZHM16-project1
-
-#### Please ignore the _MACOSX folder under ZHM16_project.tar.gz
-
----
-
 ### Hilbert.c:
 
 ##### Running:
