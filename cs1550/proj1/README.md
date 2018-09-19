@@ -25,9 +25,7 @@
 
 ##### Note:
 
-- Please do **not** make the snake twisted or go along its body line because the instructions did **not** us that we do need to implement a collision check of the snake's body; otherwise, everything works perfectly
-
-- I made the snake initially go right, it's just a default choice made by myself, not the system itself
+- Please do **not** make the snake twisted or go along its body line
 
 - If there's `modification time in the future` or `Clock time skewe detected ` warnings, you can type
 
