@@ -18,12 +18,13 @@
 
 ##### Usage:
 
+- Example
+<img src="snake.gif" alt="snake game" height="350" width="520"/>
+
 - Press `B` to start the game
 - Use `W/S/A/D` to control the snake
 - Use `Q` to quit the game at anytime
 - Do **not** use arrow keys
-- Example
-<img src="snake.gif" alt="snake game" height="350" width="520"/>
 
 ##### Note:
 
