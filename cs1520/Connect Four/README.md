@@ -1,8 +1,4 @@
-# Connect Four -- Zhaoyi Ma
-
-**Name:** Zhaoyi Ma
-
-**Pitt ID:** zhm16
+# Connect Four
 
 #### Assumptions
 

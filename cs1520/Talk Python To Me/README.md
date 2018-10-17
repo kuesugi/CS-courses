@@ -1,8 +1,4 @@
-# Talk Python to Me -- Zhaoyi Ma
-
-Name: Zhaoyi Ma
-
-Pitt ID: zhm16
+# Talk Python to Me
 
 ## Notes:
 1. For `before_year()`, I also print the specified year that entered by the user
