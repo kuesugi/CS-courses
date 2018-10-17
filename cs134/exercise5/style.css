@@ -1,0 +1,67 @@
+html{
+    background-color: #dddddd;
+}
+body {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px 2px black;
+}
+img{
+    float: left;
+    margin-right: 20px;
+}
+header {
+    background-image: linear-gradient(to right, white, lightblue);
+    padding: 15px;
+}
+header > h2 {
+    font-size: 2.5em;
+    margin: 0;
+}
+header > h3 {
+    font-size: 1em;
+    margin: 0;
+}
+main, footer {
+    padding: 15px;
+}
+main {
+    float: right;
+    width: 570px;
+    padding: 0 15px;
+}
+aside {
+    float: left;
+    width: 170px;
+    padding: 0 15px;
+}
+h1 {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1.25em;
+}
+h1::first-letter {
+    font-size: 150%;
+}
+a:focus, a:hover {
+    text-decoration: none;
+}
+ul {
+    padding-left: 0;
+}
+ul li {
+    line-height: 1.5;
+    list-style-type: none;
+}
+footer {
+    clear: both;
+}
+footer p {
+    text-align: center;
+}
+header {
+    overflow: auto;
+}

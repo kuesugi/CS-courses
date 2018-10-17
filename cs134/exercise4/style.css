@@ -1,0 +1,54 @@
+html {
+    background-image: url("stripe.png");
+    background-attachment: fixed;
+}
+
+body {
+    font: 100%/1.2 "Open Sans", Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    margin: 0 auto;
+}
+
+#title {
+    background-image: linear-gradient(45deg, #1c2957, #ffffff, #cdb87d);
+    padding: 1em 0;
+}
+
+#page-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: #000000;
+    text-shadow: 2px 2px 2px gray;
+}
+
+ul {
+    background-color: #cdb87d;
+    width: 50%;
+    margin:1em auto;
+    box-shadow: 2px 2px rgb(128, 128, 128);
+    border-radius: 10px;
+}
+
+nav {
+    text-align: center;
+}
+
+a.menu-link {
+    text-decoration: none;
+}
+
+article {
+    padding: 1em 30px;
+}
+
+article > p {
+    line-height: 1.5;
+    text-indent: 2em;
+}
+
+footer p {
+    text-align: center;
+}
