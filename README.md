@@ -24,8 +24,9 @@
    <img src="/examples/in-game.png" alt="In-game" height="300" width="495"/>
    
 ### CS134 Web Site Design & Development 🏍️
-   [Execise 2](/cs134/exercise2)
+   [Execise 2](/cs134/exercise2), [Execise 3](/cs134/exercise3), [Execise 4](/cs134/exercise4), [Execise 5](/cs134/exercise5)
 ### CS1520 Programming Language For Web Applications 🏍️
+   [Connect four](/cs1520/Connect%20Four), [Talk Python to me](/cs1520/Talk%20Python%20To%20Me)
 ### CS1550 Introduction to Operating Systems 🏍️
    [Double-Buffered Graphics Library](/cs1550/Double-Buffered%20Graphics%20Library), adding `getcount()` syscall
 ### CS1632 Quality Assurance 🏍️
