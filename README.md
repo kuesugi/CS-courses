@@ -28,7 +28,7 @@
 ### CS1520 Programming Language For Web Applications 🏍️
    [Connect four](/cs1520/Connect%20Four), [Talk Python to me](/cs1520/Talk%20Python%20To%20Me)
 ### CS1550 Introduction to Operating Systems 🏍️
-   [Double-Buffered Graphics Library](/cs1550/Double-Buffered%20Graphics%20Library), adding `getcount()` syscall
+   [Double-Buffered Graphics Library](/cs1550/Double-Buffered%20Graphics%20Library), [My syscall](/cs1550/my%20syscall)
 ### CS1632 Quality Assurance 🏍️
 <br>
 
